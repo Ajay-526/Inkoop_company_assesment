@@ -62,6 +62,7 @@ function evaluation_1() {
 	{
 		// window.alert('Playe -2 had WON the game');
 		swal("Good job!", "Playe -2 had WON the game", "success");
+		location.reload();
 	}
 	dash();
 }
@@ -74,6 +75,7 @@ function evaluation_2() {
 	{
 		// window.alert('Playe -1 had WON the game');		
 		swal("Good job!", "Playe -1 had WON the game", "success");
+		location.reload();
 	}
 	dash();
 }
