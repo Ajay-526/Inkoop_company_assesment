@@ -1,0 +1,17 @@
+.game{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+}
+.player{
+	font-size: 1.2em;
+}
+.score{
+	display: flex;
+	justify-content: space-around;
+}
+.dashboard{
+	text-align: center;
+	background: yellow;
+	padding: 10px;
+}
